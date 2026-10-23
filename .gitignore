@@ -1,0 +1,15 @@
+# Python
+ai-service-python/venv/
+ai-service-python/__pycache__/
+ai-service-python/.env
+ai-service-python/vector_store/
+ai-service-python/uploaded_pdfs/
+
+# .NET
+backend-dotnet/bin/
+backend-dotnet/obj/
+backend-dotnet/appsettings.Development.json
+
+# React
+frontend-react/node_modules/
+frontend-react/dist/
